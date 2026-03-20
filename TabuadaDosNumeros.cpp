@@ -1,5 +1,5 @@
-/*   ATIVIDADE 11 - ALGORITMOS E PROGRAMAÇÃO   */
-// Aluno: Dreyco Santos Benedito.
+/*   TREINANDO - ALGORITMOS E PROGRAMAÇÃO   */
+// CRIADOR: Dreyco Santos Benedito.
 
 #include <iostream>
 using namespace std;
